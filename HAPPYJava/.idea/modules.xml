@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HAPPYJava.iml" filepath="$PROJECT_DIR$/HAPPYJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happyjdbc.iml" filepath="$PROJECT_DIR$/happyjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/happyjdbc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/happyjdbc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/happyjdbc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/happyjdbc.test.iml" />
     </modules>
   </component>
 </project>

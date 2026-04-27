@@ -20,9 +20,9 @@ public class OpExam {
 
         boolean x = true, y= false;
         System.out.println(x && y); // false (AND)
-        System.out.println(x || y);
-        System.out.println(!x);
-        System.out.println(x ^ y);
+        System.out.println(x || y); // true
+        System.out.println(!x);    // false
+        System.out.println(x ^ y); // true 서로 다를때
 
         System.out.println("==========");
         System.out.println((a==b) && (a>b));
@@ -47,6 +47,14 @@ public class OpExam {
         System.out.println(i++); // i=i+1 증감연산자
         System.out.println(i);
 //        System.out.println(++i); // i=i+1
+
+        byte c = 10;
+        byte d = 20;
+        int result3 = c+d;
+
+        char e = 20;
+        char f = 30;
+        int result4 = e+f;
 
     }
 }

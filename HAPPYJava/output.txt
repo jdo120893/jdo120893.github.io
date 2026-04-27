@@ -1,0 +1,31 @@
+1: package ioexam;
+2: 
+3: import java.io.*;
+4: import java.net.URL;
+5: 
+6: public class IOExam {
+7:     public static void main(String[]args)throws IOException{
+8: 
+9:      URL url = new URL("https://www.fullstackfamily.com/lessons/13/books/java-programming/java-15");
+10: //        InputStream in = System.in;
+11: //        InputStream in = new FileInputStream("src/IOExam/IOExam.java");
+12:         InputStream in = url.openStream();
+13:         InputStreamReader isr = new InputStreamReader(in);
+14:         BufferedReader br = new BufferedReader(isr);
+15: 
+16: //        BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
+17: 
+18:         String msg = null;
+19:         System.out.println("입력하세요");
+20:         msg = br.readLine();
+21: 
+22:         System.out.println(msg);
+23: 
+24:         while((msg = br.readLine()) != null){
+25:             System.out.println(msg);
+26:         }
+27:         br.close();
+28:         isr.close();
+29:         in.close();
+30:     }
+31: }

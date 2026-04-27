@@ -15,9 +15,9 @@ public class IfElseIfPractice1 {
         System.out.println(args[2]);
         System.out.println(args[3]);
         System.out.println("============");
-        int dust = Integer.parseInt(args[0]);
+//        int dust = Integer.parseInt(args[0]);
 
-//        int dust = 75; //미세먼지 수치
+        int dust = 75; //미세먼지 수치
 
         if(dust <= 30) {
         System.out.println("좋음");

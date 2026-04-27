@@ -7,8 +7,6 @@ public class OperatorPractice2 {
         System.out.println(score += 9);
 
         byte value = 127;
-        value += 5;
-        System.out.println(value); // 오버플로우
+        System.out.println(value += 5);
 
-    }
-}
+}}

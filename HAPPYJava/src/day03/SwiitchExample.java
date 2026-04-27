@@ -5,12 +5,12 @@ public class SwiitchExample {
         int month = 1;
         String season;
 
-        switch (month){
-        case 1:
-        case 2:
-        case 3:
-            season ="봄";
-            break;
+        switch(month){
+            case 1:
+            case 2:
+            case 3:
+                season = "봄";
+                break;
         case 4:
         case 5:
         case 6:
