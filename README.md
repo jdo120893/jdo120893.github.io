@@ -10,13 +10,11 @@
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdo120893&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📁 Repository Structure
 * **HAPPYJava**: 자바 기초 및 객체지향 실습 코드
 * **my-html-project**: HTML/CSS 프론트엔드 기초 실습
 
-[![JUNG DONG WOOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdo120893&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 *꾸준함이 실력을 만든다!*
@@ -37,12 +35,12 @@
 
 <div align="center">
 
-  ### 📊 My GitHub Stats
+  ### 📊 My GitHub Growth
   
-  ![JUNG DONG WOOK's Stats](https://github-readme-stats.vercel.app/api?username=jdo120893&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=jdo120893&show_icons=true&theme=radical" alt="JUNG DONG WOOK's Stats" />
 
   <br/>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdo120893&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdo120893&layout=compact&theme=radical" alt="Top Langs" />
 
 </div>
