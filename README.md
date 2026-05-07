@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=JUNG%20DONG%20WOOK&subText=be%20steady&fontSize=70&subFontSize=20&animation=fadeIn&fontAlignY=35)
-
 #  정동욱의 백엔드 개발 로그
 
 멋쟁이사자처럼 백엔드 스쿨에서 공부하며 성장하고 있는 정동욱입니다.
