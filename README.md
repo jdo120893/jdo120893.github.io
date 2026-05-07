@@ -15,6 +15,8 @@
 * **HAPPYJava**: 자바 기초 및 객체지향 실습 코드
 * **my-html-project**: HTML/CSS 프론트엔드 기초 실습
 
+[![JUNG DONG WOOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdo120893&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 *꾸준함이 실력을 만든다!*
 
