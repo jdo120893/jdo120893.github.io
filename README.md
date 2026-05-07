@@ -7,7 +7,7 @@
 
 . - 📫 연락처: **jdo120893@gmail.com**
 
-<h3 align="left">저와 소통하세요:</h3>
+<h3 align="left">저와 소통하세요!:</h3>
 <p align="left">
 <a href="https://instagram.com/정동욱" target="blank"><img align="center" /> <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="정동욱" height="30" width="40" /></a>
 </p>
