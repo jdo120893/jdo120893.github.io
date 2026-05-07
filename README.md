@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&Text=be%20steady&fontSize=70&subFontSize=20&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=be%20steady&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 #  정동욱의 백엔드 개발 로그
 
