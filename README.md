@@ -34,3 +34,15 @@
 * **이슈 활용:** 혼자 공부하더라도 "오늘 할 일"을 **Issues**에 등록하고, 완료 후 커밋할 때 `#1`(이슈 번호)을 적으면 자동으로 연결되어 훨씬 전문적으로 보입니다.
 
 ## Today`s Goal: Issue Tracking Success!
+
+<div align="center">
+
+  ### 📊 My GitHub Stats
+  
+  ![JUNG DONG WOOK's Stats](https://github-readme-stats.vercel.app/api?username=jdo120893&show_icons=true&theme=radical)
+
+  <br/>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdo120893&layout=compact&theme=radical)
+
+</div>
