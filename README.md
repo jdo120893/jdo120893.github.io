@@ -10,6 +10,7 @@
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdo120893&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📁 Repository Structure
 * **HAPPYJava**: 자바 기초 및 객체지향 실습 코드
