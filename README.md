@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JUNG%20DONG%20WOOK&fontSize=70&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=꾸준히 하자&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 #  정동욱의 백엔드 개발 로그
 
